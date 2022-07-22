@@ -48,6 +48,7 @@ textarea#txt-input {
     border: none;
     background-color: var(--header-bg--);
     font-family: 'Rubik', sans-serif;
+    cursor: pointer;
 }
 
 #output {
